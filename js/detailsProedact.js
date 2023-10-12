@@ -116,7 +116,7 @@ function init() {
      
         <div class="popup">
      
-        <img src="/img/prodact  (${getIdImg}).jpeg">
+        <img src="img/prodact  (${getIdImg}).jpeg">
      
      </div>
         ` 

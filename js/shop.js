@@ -14,7 +14,7 @@ localStorage.setItem('prodact', JSON.stringify(arrprodact))
             let listprodact = sliceprodact.map(function (prodacts){
                 return `
                 <div class="cart" data-id="${prodacts.id}">
-                    <img src="/img/${prodacts.Image}">
+                    <img src="img/${prodacts.Image}">
                     <div class="info col-info">
                         <h4>${prodacts.title}</h4>
                         <span>${prodacts.price}</span>

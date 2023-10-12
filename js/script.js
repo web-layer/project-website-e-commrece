@@ -46,7 +46,7 @@ function init() {
           let listprodact2 = arr.slice(0,4).map(function (prodacts){
               return `
               <div class="cart" data-id='${prodacts.id}'>
-                  <img src="/img/${prodacts.Image}">
+                  <img src="img/${prodacts.Image}">
                   <div class="info col-info">
                       <h4>${prodacts.title}</h4>
                       <span>${prodacts.price}</span>

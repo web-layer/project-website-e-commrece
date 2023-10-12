@@ -63,7 +63,7 @@ function renderCart(container, prodacts) {
 
             <div class="prodact_card">
                 <div class="flex">
-                    <img src="/img/${Image}">
+                    <img src="img/${Image}">
                     <div class="title">${title}</div>
 
                     <div class="price">${price}</div>
