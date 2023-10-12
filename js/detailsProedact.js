@@ -38,7 +38,7 @@ function init() {
 
         let contqinerProdact = document.querySelector(".details")
 
-        let { id, Image, title, discription, price, quantity, ImageSlider} = findprodact;
+        let { id, Image, title, discription, price, ImageSlider} = findprodact;
 
         slider = ImageSlider
             let showProdqctDeletqis =  `
