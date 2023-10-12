@@ -43,7 +43,7 @@ function init() {
         slider = ImageSlider
             let showProdqctDeletqis =  `
         <div class="img_prodact">
-            <img src="/img/${Image}" data-img="${id}">   
+            <img src="img/${Image}" data-img="${id}">   
                     
                
 
