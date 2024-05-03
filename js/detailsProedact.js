@@ -120,30 +120,15 @@ function init() {
      
      </div>
         ` 
-
-
-     
-     
-
      
      }) 
 
-
-    
-    
- 
-
-
     }
-
-
-    
 
 
     showprodactDetails(arrprodact)
 
 
-    
 
 
     let cartIds = JSON.parse(localStorage.getItem("cartIds")) || [];
