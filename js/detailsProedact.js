@@ -141,7 +141,7 @@ function init() {
 
         if(btn && btnstatut === "disabled") {
             btn.disabled = true;
-            btn.style.background = "#85863b70"
+            btn.style.background = "#e3b77070"
         }
     })
 }
