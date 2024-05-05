@@ -836,7 +836,7 @@ body {
 }
 
 .section {
-  background-image: url("/img/living-room.jpg");
+  background-image: url("../img/living-room.jpg");
   height: 100vh;
   width: 100%;
   background-position: center;
